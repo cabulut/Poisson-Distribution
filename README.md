@@ -1,4 +1,4 @@
-# Implementation of Poisson Distibution on Football Leagues 
+# Poisson Distribution on Football Leagues 
 
 
 ## Getting Started
