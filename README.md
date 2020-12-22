@@ -21,13 +21,13 @@ The data is scraped from the same link again [SkySport DE](https://sport.sky.de/
 
 **table(league='premier-league-tabelle',teams=20)**
 
--bundesliga-tabelle: 18
--premier-league-tabelle: 20
--serie-a-tabelle: 20
--ligue-1-tabelle: 20
--la-liga-tabelle": 20
--eredivisie-tabelle: 18
--sueper-lig-tabelle: 21
+- bundesliga-tabelle: 18
+- premier-league-tabelle: 20
+- serie-a-tabelle: 20
+- ligue-1-tabelle: 20
+- la-liga-tabelle": 20
+- eredivisie-tabelle: 18
+- sueper-lig-tabelle: 21
 
 in function the league argument is ***string*** and teams argument is ***integer***
 
