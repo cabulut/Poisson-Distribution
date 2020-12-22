@@ -3,7 +3,7 @@
 
 ## Getting Started
 
-Pandas,Requests,BeautifulSoup,Scipy,Matplotlib are essentials
+Pandas, Requests, BeautifulSoup, Scipy, Matplotlib are essentials
 
 
 ## What is Poisson Distribution and how it is being implemented here?
@@ -21,17 +21,17 @@ The data is scraped from the same link again [SkySport DE](https://sport.sky.de/
 
 **table(league='premier-league-tabelle',teams=20)**
 
-*bundesliga-tabelle: 18
-*premier-league-tabelle: 20
-*serie-a-tabelle: 20
-*ligue-1-tabelle: 20
-*la-liga-tabelle": 20
-*eredivisie-tabelle: 18
-*sueper-lig-tabelle: 21
+-bundesliga-tabelle: 18
+-premier-league-tabelle: 20
+-serie-a-tabelle: 20
+-ligue-1-tabelle: 20
+-la-liga-tabelle": 20
+-eredivisie-tabelle: 18
+-sueper-lig-tabelle: 21
 
-in function the league argument is *string* and teams argument is *integer*
+in function the league argument is ***string*** and teams argument is ***integer***
 
-In order to represent the Poisson Distibution **Probability Mass Function** has been used. PMF simply maps from each value to its probability and both Poisson Distribution and PMF are associated with discrete random variables. After applying Poisson and PMF, numpy arrays are converted into a single dataframe and plot has been implemented.
+In order to represent the Poisson Distibution, **Probability Mass Function** has been used. PMF simply maps from each value to its probability and both Poisson Distribution and PMF are associated with discrete random variables. After applying Poisson and PMF, numpy arrays are converted into a single dataframe and plot has been implemented.
 
 
 ## How to read the graph
