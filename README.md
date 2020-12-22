@@ -42,13 +42,10 @@ After implementing above procedures and running all the codes, you are going to 
 
 ###### Notes
 
-In case **Poisson Distribution** file has problem with loading copy paste this link 
+In case **Poisson Distribution** file has problem with loading copy simply click on link below
 
-<https://github.com/cabulut/Poisson-Distribution/blob/master/Poisson%20Distribution.ipynb>
 
-into this page
-
-[nbviewer.jupyter](https://nbviewer.jupyter.org/)
+[nbviewer.jupyter](https://nbviewer.jupyter.org/github/cabulut/Poisson-Distribution/blob/master/Poisson%20Distribution.ipynb)
 
 ###### Contact
 
