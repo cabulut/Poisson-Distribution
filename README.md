@@ -40,6 +40,16 @@ After implementing above procedures and running all the codes, you are going to 
 
 
 
+###### Notes
+
+In case **Poisson Distribution** file has problem with loading copy paste this link 
+
+<https://github.com/cabulut/Poisson-Distribution/blob/master/Poisson%20Distribution.ipynb>
+
+into this page
+
+[nbviewer.jupyter](https://nbviewer.jupyter.org/)
+
 ###### Contact
 
 [LinkedIn](https://www.linkedin.com/in/caner-bulut-48a0784a/)
